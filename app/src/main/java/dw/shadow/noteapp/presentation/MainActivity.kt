@@ -1,4 +1,4 @@
-package dw.shadow.noteapp
+package dw.shadow.noteapp.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
